@@ -1,0 +1,13 @@
+.App{
+  text-align: center;
+  padding: 100px;
+  background-color: aqua;
+  color: black;
+}
+button{
+  color: darkmagenta;
+  margin-left: 15px;
+}
+.head{
+  padding-bottom: 400px;
+}
